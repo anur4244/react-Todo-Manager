@@ -1,12 +1,38 @@
-# React + Vite
+# 📝 Todo Manager PRO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Todo List App built with **React**, **Context API**, and **Material UI** — featuring light/dark mode, task filtering, and a clean responsive UI.
+![Screenshot 2025-06-19 113659](https://github.com/user-attachments/assets/264acdaa-0b39-4787-9394-bf6fecf3e426)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/aa575f67-aa08-49cd-a569-44cc585e09b8)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- ✅ Add, complete, and delete tasks
+- 🌙 Light/Dark mode toggle
+- ⚛️ Global state management with Context API
+- 💄 Styled using Material UI components
+- 💡 Simple, clean UI for productivity
+- 📱 Responsive layout for mobile & desktop
+
+---
+
+## 🔧 Tech Stack
+
+- React (with Vite)
+- Context API (for global state)
+- Material UI (for UI components)
+- Emotion (for styling under the hood)
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/yourusername/todo-manager-pro.git
+cd todo-manager-pro
+npm install
+npm run dev
