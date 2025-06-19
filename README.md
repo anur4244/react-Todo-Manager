@@ -32,7 +32,7 @@ A modern Todo List App built with **React**, **Context API**, and **Material UI*
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/todo-manager-pro.git
+git clone https://github.com/anur4244/todo-manager-pro.git
 cd todo-manager-pro
 npm install
 npm run dev
